@@ -1,0 +1,17 @@
+print("Welcome to Buzz Calculator")
+a = int(input("Enter the frst value: "))
+b = int(input("Enter the second value: "))
+sum = ('The Sum is', a+b)
+print(sum)
+sub = ('The sub is' , a-b)
+print(sub)
+mul = (a*b)
+print(mul)
+did =(a/b)
+print(did)
+print("This calculator is powered by Salman Coders")
+print(a%2)
+
+# print(a-b)
+# print(a*b)
+# print(ab)20

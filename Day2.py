@@ -1,0 +1,7 @@
+print("Hi my name is Salman")
+print("I am 21 years old")
+print("and in june 2026 ")
+print("I \"am\" earning\n 100k plus\n from my programing")
+print("And i am earning 200k\nin september")
+print("Yellow", 6,7,8,9,sep=" @ " ,end=" sal\n")
+print("ok hogaya")
