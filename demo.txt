@@ -1,8 +1,2 @@
-abcd is the new line
-Then is is also Append used for updating data
-Then is is also Append used for updating data
-Then is is also Append used for updating data
-This is also append
-This is also append
-This is also Js node
-This is also append
+hi this is me salman
+i am a futures multi millioniare bussiness man
